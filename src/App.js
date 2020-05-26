@@ -18,7 +18,11 @@ class App extends Component {
           <div className="title">
             <h1>COVID NEWS</h1>
             <h4>
-              <a> Tudo que você precisa saber sobre o coronavirus </a>
+              <a> Tudo que você precisa saber sobre o coronavirus </a> 
+
+              <p>Clique <a href="https://github.com/leandronowras/isolate-SO">aqui </a>
+              para baixar um incrivel jogo e se divertir durante periodo
+              </p>
             </h4>
           </div>
 
