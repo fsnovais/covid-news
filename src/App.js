@@ -26,7 +26,7 @@ class App extends Component {
 
               <p><FontAwesomeIcon icon={faGamepad} aria-hidden="true" />
               &nbsp;Clique <a href="https://github.com/leandronowras/isolate-SO"><b>aqui</b> </a>
-              para baixar um incrivel jogo e se divertir durante o isolamento
+              para baixar um incrivel jogo e se divertir durante o isolamento 
               </p>
             </h4>
           </div>
