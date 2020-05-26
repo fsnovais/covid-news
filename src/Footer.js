@@ -9,10 +9,16 @@ class Footer extends Component {
       <div className="footerSection">
         <div className="social">
           <a href="https://github.com/phellippe" target="_blank" rel="noopener noreferrer">
-            <i className="fa fa-2x fa-github" aria-hidden="true" />
+            <i className="fa fa-2x fa-github" aria-hidden="true" /> Felipe
           </a>
-          <a href="https://www.linkedin.com/in/felipe-dos-santos-novais-332397173/" target="_blank" rel="noopener noreferrer">
-            <i className="fa fa-2x fa-linkedin" aria-hidden="true" />
+          <a href="https://github.com/viyuka45/" target="_blank" rel="noopener noreferrer">
+            <i className="fa fa-2x fa-github" aria-hidden="true" /> Vitória
+          </a>
+          <a href="https://github.com/LucaMozart" target="_blank" rel="noopener noreferrer">
+            <i className="fa fa-2x fa-github" aria-hidden="true" /> Luca
+          </a>
+          <a href="https://github.com/leandronowras" target="_blank" rel="noopener noreferrer">
+            <i className="fa fa-2x fa-github" aria-hidden="true" /> Leandro
           </a>
         </div>
 
