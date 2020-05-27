@@ -3,14 +3,14 @@ Corona News é um site criado com react para voce se manter informado sobre as n
 
 <h1>Rodando em localhost</h1>
 Intalando as dependencias:<br />
-<p><b>npm install</b></p>
+<b>npm install</b><br />
 ou </br>
-<p><b>yarn install</b></p>
+<b>yarn install</b><br />
 
 Iniciando o servidor de aplicação<br />
-<p><b>npm start</b></p>
+<b>npm start</b><br />
 ou </br>
-<p><b>yarn start</b></p>
+<b>yarn start</b><br />
 
 <h1>Contribuintes</h1>
 <ul>
