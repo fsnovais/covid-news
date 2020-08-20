@@ -14,7 +14,7 @@ ou </br>
 
 <h1>Contribuintes</h1>
 <ul>
-<li>Felipe dos Santos Novais</li>
+<li>Felipe Novais</li>
 <li>Vitoria Yuka</li>
 <li>Luca Mozart</li>
 <li>Leandro Abreu</li>
